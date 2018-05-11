@@ -77,4 +77,4 @@ use Bitrix\Main\Page\Asset;
 
 
 </div>
-<div class="content">
+    <div class="content">

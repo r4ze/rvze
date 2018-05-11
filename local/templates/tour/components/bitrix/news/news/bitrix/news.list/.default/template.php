@@ -18,7 +18,7 @@
                     </div>
 
     <?endforeach;?>
-    <? echo '<pre>'; print_r($arItem); echo '</pre>';?>
+
     <?if($arParams["DISPLAY_BOTTOM_PAGER"]):?>
         <br /><?=$arResult["NAV_STRING"]?>
     <?endif;?>
