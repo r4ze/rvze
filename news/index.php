@@ -31,7 +31,7 @@ $APPLICATION->SetTitle("Новости");
 		"SET_TITLE" => "N",
 		"INCLUDE_IBLOCK_INTO_CHAIN" => "N",
 		"ADD_SECTIONS_CHAIN" => "Y",
-		"ADD_ELEMENT_CHAIN" => "N",
+		"ADD_ELEMENT_CHAIN" => "Y",
 		"USE_PERMISSIONS" => "N",
 		"PREVIEW_TRUNCATE_LEN" => "",
 		"LIST_ACTIVE_DATE_FORMAT" => "d.m.Y",

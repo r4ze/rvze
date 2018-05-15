@@ -11,7 +11,7 @@ foreach($arResult as $arItem):
 ?>
 	<?if($arItem["SELECTED"]):?>
 
-    <li><a class="selected" href="<?=$arItem["LINK"]?>"><?=$arItem["TEXT"]?></a></li>
+    <li><a class="current" href="<?=$arItem["LINK"]?>"><?=$arItem["TEXT"]?></a></li>
 
 	<?else:?>
 

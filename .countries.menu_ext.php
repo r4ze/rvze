@@ -1,51 +1,40 @@
 <?
-$aMenuLinks = Array(
-	Array(
-		"Главная", 
-		"/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
+if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
 
-    Array(
-		"Страны",
-		"/countries/",
-		Array(),
-		Array(),
-		""
-	),
+global $APPLICATION;
+$aMenuLinksExt = array();
 
-    Array(
-		"Туры",
-		"/tours/",
-		Array(),
-		Array(),
-		""
-	),
+if(CModule::IncludeModule('iblock'))
+{
+    $arFilter = array(
+        "SITE_ID" => SITE_ID,
+        "IBLOCK_ID" => 2
+    );
 
-    Array(
-		"Новости",
-		"/news/",
-		Array(),
-		Array(),
-		""
-	),
+    $dbIBlock = CIBlock::GetList(array('SORT' => 'ASC', 'ID' => 'ASC'), $arFilter);
+    $dbIBlock = new CIBlockResult($dbIBlock);
 
-    Array(
-		"Отели",
-		"/hotels/",
-		Array(),
-		Array(),
-		""
-	),
+    if ($arIBlock = $dbIBlock->GetNext())
+    {
+        if(defined("BX_COMP_MANAGED_CACHE"))
+            $GLOBALS["CACHE_MANAGER"]->RegisterTag("iblock_id_".$arIBlock["ID"]);
 
-    Array(
-        "Контакты",
-        "/contacts/",
-        Array(),
-        Array(),
-        ""
-    )
-);
+        if($arIBlock["ACTIVE"] == "Y")
+        {
+            $aMenuLinksExt = $APPLICATION->IncludeComponent("bitrix:menu.sections", "countriesMenu", array(
+                "IS_SEF" => "Y",
+                "SEF_BASE_URL" => "",
+                "IBLOCK_TYPE" => $arIBlock['IBLOCK_TYPE_ID'],
+                "IBLOCK_ID" => "2",
+                "DEPTH_LEVEL" => "3",
+                "CACHE_TYPE" => "N",
+            ), false, Array('HIDE_ICONS' => 'Y'));
+        }
+    }
+
+    if(defined("BX_COMP_MANAGED_CACHE"))
+        $GLOBALS["CACHE_MANAGER"]->RegisterTag("iblock_id_new");
+}
+
+$aMenuLinks = array_merge($aMenuLinks, $aMenuLinksExt);
 ?>

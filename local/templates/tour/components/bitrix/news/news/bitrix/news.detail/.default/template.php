@@ -7,7 +7,7 @@
 		<img class="img_inner fleft mr10"  src="<?=$arResult["DETAIL_PICTURE"]["SRC"]; ?>" width="<?=$arResult["DETAIL_PICTURE"]["WIDTH"]?>" height="<?=$arResult["DETAIL_PICTURE"]["HEIGHT"]?>" alt="<?=$arResult["NAME"]?>"  title="<?=$arResult["NAME"]?>" />
 	<?endif?>
 	<?if($arParams["DISPLAY_DATE"]!="N" && $arResult["DISPLAY_ACTIVE_FROM"]):?>
-		<span class="news-date-time"><?=$arResult["DISPLAY_ACTIVE_FROM"]?></span>
+        <time datetime="2014-10-01"><span><?=FormatDate("d", MakeTimeStamp($arItem['DISPLAY_ACTIVE_FROM']))?><span><?=FormatDate("M", MakeTimeStamp($arItem['DISPLAY_ACTIVE_FROM']))?></span></span></time>
 	<?endif;?>
 	<?if($arParams["DISPLAY_NAME"]!="N" && $arResult["NAME"]):?>
 
@@ -26,7 +26,7 @@
 		<?echo $arResult["PREVIEW_TEXT"];?>
 	<?endif?>
 	<div style="clear:both"></div>
-    <a href="news.html" class="link1 mt">К списку</a>
+
 </div>
 </div>
 </div>

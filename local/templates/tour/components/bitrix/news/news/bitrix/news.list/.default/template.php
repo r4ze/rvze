@@ -7,11 +7,11 @@
         $this->AddEditAction($arItem['ID'], $arItem['EDIT_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_EDIT"));
         $this->AddDeleteAction($arItem['ID'], $arItem['DELETE_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BNL_ELEMENT_DELETE_CONFIRM')));
         ?>
-                    <h3 class="mtop20">Новости</h3>
+
                     <div class="blog">
-                        <time datetime="2014-10-01">15<span>Фев</span></time>
+                        <time datetime="2014-10-01"><?=$arItem["DATE_CREATE"]?></time>
                         <div class="extra_wrapper">
-                            <div class="text1 col1"><a href="news_detail.html"><?=$arItem["NAME"]?></a></div>
+                            <div class="text1 col1"><a href="<?=$arItem[DETAIL_PAGE_URL]?>"><?=$arItem["NAME"]?></a></div>
                         </div>
                         <p><?=$arItem[PREVIEW_TEXT]?></p>
                         <a href="<?=$arItem[DETAIL_PAGE_URL]?>" class="link1 fright">Подробнее</a>
