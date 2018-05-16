@@ -47,7 +47,7 @@
 	),
 	$component
 );?>
-<p><a href="<?=$arResult["FOLDER"].$arResult["URL_TEMPLATES"]["news"]?>"><?=GetMessage("T_NEWS_DETAIL_BACK")?></a></p>
+
 <?if($arParams["USE_RATING"]=="Y" && $ElementID):?>
 <?$APPLICATION->IncludeComponent(
 	"bitrix:iblock.vote",
@@ -100,27 +100,7 @@
 			"!"."ID" => $ElementID,
 		);
 		?>
-		<hr /><h3><?=GetMessage("CATEGORIES")?></h3>
-		<?foreach($arParams["CATEGORY_IBLOCK"] as $iblock_id):?>
-			<?$APPLICATION->IncludeComponent(
-				"bitrix:news.list",
-				$arParams["CATEGORY_THEME_".$iblock_id],
-				Array(
-					"IBLOCK_ID" => $iblock_id,
-					"NEWS_COUNT" => $arParams["CATEGORY_ITEMS_COUNT"],
-					"SET_TITLE" => "N",
-					"INCLUDE_IBLOCK_INTO_CHAIN" => "N",
-					"CACHE_TYPE" => $arParams["CACHE_TYPE"],
-					"CACHE_TIME" => $arParams["CACHE_TIME"],
-					"CACHE_GROUPS" => $arParams["CACHE_GROUPS"],
-					"FILTER_NAME" => "arCategoryFilter",
-					"CACHE_FILTER" => "Y",
-					"DISPLAY_TOP_PAGER" => "N",
-					"DISPLAY_BOTTOM_PAGER" => "N",
-				),
-				$component
-			);?>
-		<?endforeach?>
+
 	<?endif?>
 <?endif?>
 <?if($arParams["USE_REVIEW"]=="Y" && IsModuleInstalled("forum") && $ElementID):?>

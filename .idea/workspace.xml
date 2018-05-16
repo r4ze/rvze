@@ -2,327 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad591ecd-0db5-4390-8744-f0707092f69a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/arr_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/arr_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/missing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/no_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/x2border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/black/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/black/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/blue/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/blue/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/green/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/green/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/red/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/red/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/wood/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/yellow/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/yellow/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/images/line-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/images/tile-empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/arr_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/arr_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/missing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/no_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/no_prop_value.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/x2border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/black/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/blue/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/green/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/red/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/wood/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/yellow/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/arr_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/arr_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/missing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/price_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/x2border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/price_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/price_bg_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/price_bg_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/price_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/bt_cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/price_bg_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/images/no_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/images/no_prop_value.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/arr_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/arr_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/missing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/no_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/no_prop_value.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/x2border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/black/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/blue/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/green/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/red/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/wood/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/yellow/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/arr_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/arr_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/fade_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/fade_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/missing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/no_photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/no_prop_value.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/stick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/stick_disc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/x2border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/black/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/black/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/black/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/blue/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/blue/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/blue/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/green/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/green/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/green/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/red/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/red/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/red/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/wood/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/wood/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/wood/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/yellow/images/pagination_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/yellow/images/slider_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/yellow/images/x2border_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/font_quote.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/noavatar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/add.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/add_button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/cut.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/edit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_bold.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_code.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_color.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_image.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_italic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_link.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_list.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_quote.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_translit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/font_underline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/image.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/toolbarbg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/images/postform/video.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/images/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/images/left_menu_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.list/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.list/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.list/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.result/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.result/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.compare.result/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/component_epilog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/black/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/blue/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/green/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/red/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/wood/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/themes/yellow/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.filter/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.filter/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.filter/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/bitrix/search.page/.default/chain_template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/bitrix/search.page/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/bitrix/search.page/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.search/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/component_epilog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/black/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/blue/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/green/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/red/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/wood/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/themes/yellow/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/blue/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/green/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/red/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/wood/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/banner/themes/yellow/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/component_epilog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/black/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/blue/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/green/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/red/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/wood/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/section/themes/yellow/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/black/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/blue/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/green/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/red/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/wood/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/slider/themes/yellow/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.top/slider/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/component_epilog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/lang/en/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/lang/ru/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/ru/script.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/script_deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/forum.topic.reviews/.default/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/component_epilog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/result_modifier.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/iblock.vote/stars/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/compare.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/element.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/lang/en/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/lang/ru/.parameters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/sections.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/lang/en/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/lang/ru/.description.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/countriesMenu/template.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/main.include/not1/template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/main.include/not2/template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/main.include/not3/template.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.countries.menu.php" afterPath="$PROJECT_DIR$/.countries.menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.countries.menu_ext.php" afterPath="$PROJECT_DIR$/.countries.menu_ext.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countries/index.php" afterPath="$PROJECT_DIR$/countries/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/php_interface/init.php" afterPath="$PROJECT_DIR$/local/php_interface/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/header1/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/header1/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/detail.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/footer.php" afterPath="$PROJECT_DIR$/local/templates/tour/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/header.php" afterPath="$PROJECT_DIR$/local/templates/tour/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/news/index.php" afterPath="$PROJECT_DIR$/news/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/detail.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/detail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/index.php" afterPath="$PROJECT_DIR$/tours/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -335,14 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local/templates/tour/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="199" column="26" lean-forward="false" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="81">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -360,18 +40,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="1525">
               <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -390,20 +60,42 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tours/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="11" column="87" lean-forward="false" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+            <state relative-caret-position="300">
+              <caret line="88" column="50" lean-forward="false" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
               <folding>
-                <element signature="e#311#4273#0#PHP" expanded="false" />
+                <element signature="e#203#4165#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tours_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/case/html/tours_detail.html">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="121" column="46" lean-forward="false" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+            <state relative-caret-position="125">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result_modifier.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/result_modifier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/detail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="112" column="13" lean-forward="false" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -412,28 +104,18 @@
       <file leaf-file-name="tours.html" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/case/html/tours.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="74" column="26" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="74" selection-end-column="26" />
+            <state relative-caret-position="244">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php">
+      <file leaf-file-name="tours_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/case/html/tours_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/list/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="2076">
+              <caret line="131" column="43" lean-forward="false" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -481,10 +163,14 @@
         <option value="$PROJECT_DIR$/local/php_interface/init.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" />
         <option value="$PROJECT_DIR$/test1.php" />
-        <option value="$PROJECT_DIR$/tours/index.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" />
-        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/header.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/detail.php" />
+        <option value="$USER_HOME$/Desktop/case/html/tours.html" />
+        <option value="$PROJECT_DIR$/tours/index.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/result_modify.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/result_modifier.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php" />
       </list>
     </option>
   </component>
@@ -802,148 +488,6 @@
               <option name="myItemId" value="news" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tour" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tour" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news.list" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tour" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="news.list" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="list" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1009,14 +553,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/php/OpenServer/modules/php/PHP-7.1/php.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1119,25 +663,26 @@
       <workItem from="1526039130214" duration="19231000" />
       <workItem from="1526299612359" duration="4919000" />
       <workItem from="1526384710317" duration="592000" />
-      <workItem from="1526385980295" duration="5075000" />
+      <workItem from="1526385980295" duration="5146000" />
+      <workItem from="1526462816856" duration="5368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37902000" />
+    <option name="totallyTimeSpent" value="43341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10363086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12730062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1166,21 +711,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/rss.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/left.menu/template.php" />
     <entry file="file://$PROJECT_DIR$/news.php" />
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/menu/leftMenu/template.php" />
@@ -1329,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1344,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,7 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4275">
           <caret line="171" column="10" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="179" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1368,9 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6650">
           <caret line="266" column="65" lean-forward="false" selection-start-line="266" selection-start-column="65" selection-end-line="266" selection-end-column="65" />
-          <folding>
-            <marker date="1526383784465" expanded="true" signature="7858:7870" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1378,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,14 +918,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/php_interface/dbconn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/local/php_interface/dbconn.php" />
     <entry file="file://$PROJECT_DIR$/local/php_interface/init.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -1415,7 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1423,7 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1431,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1439,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1447,15 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6105">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1463,33 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tours/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="11" column="87" lean-forward="false" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
-          <folding>
-            <element signature="e#311#4273#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/case/html/tours_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="121" column="46" lean-forward="false" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/case/html/tours.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="74" column="26" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="74" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1497,6 +973,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/case/html/tours_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2076">
+          <caret line="131" column="43" lean-forward="false" selection-start-line="131" selection-start-column="43" selection-end-line="131" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1509,36 +1009,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
+    <entry file="file://$PROJECT_DIR$/test1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/tour/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="199" column="26" lean-forward="false" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
+        <state relative-caret-position="81">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/case/html/tours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="112" column="13" lean-forward="false" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="88" column="50" lean-forward="false" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#203#4165#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

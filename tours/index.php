@@ -2,12 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Туры");
 ?>
-
-    <div class="content">
-        <div class="container_12">
-            <div class="banners">
-                <div class="grid_4">
-
+    <div class="banners">
 
                         <?$APPLICATION->IncludeComponent("bitrix:news", "tours", array(
                             "IBLOCK_TYPE" => "main",
@@ -89,10 +84,8 @@ $APPLICATION->SetTitle("Туры");
                             false
                         );?>
 
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
+
+ <? echo "<pre>"; print_r($arItem); echo "</pre>";?>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
