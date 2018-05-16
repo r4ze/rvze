@@ -226,4 +226,3 @@ use Bitrix\Main\Page\Asset;
 
         <div class="<?=(IS_INDEX)?('grid_8 prefix_1'):('grid_12')?>">
 
-            <h3><?$APPLICATION->ShowTitle();?></h3>
