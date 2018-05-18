@@ -24,13 +24,13 @@ if (0 < $arResult["SECTIONS_COUNT"])
 				$this->AddDeleteAction($arSection['ID'], $arSection['DELETE_LINK'], $strSectionDelete, $arSectionDeleteParams);
 
 				?>
-<div class="block2" id="<? echo $this->GetEditAreaId($arSection['ID']); ?>">
 
-    <? $renderImage = CFile::ResizeImageGet($arSection["PICTURE"]["SRC"],
+                <div class="block2" id="<? echo $this->GetEditAreaId($arSection['ID']); ?>">
+    <? $renderImage = CFile::ResizeImageGet($arSection["PICTURE"],
     Array("width" => "300", "height" => "313"), BX_RESIZE_IMAGE_EXACT, false);
     ?>
 
-    <a href="countries_detail.html"><img src="<?=$arSection["PICTURE"]["SRC"]?>" alt="" class="img_inner fleft"></a>
+    <a href="countries_detail.html"><img src="<?=$renderImage['src']?>" alt="" class="img_inner fleft"></a>
     <div class="extra_wrapper">
 
         <div class="text1 col1"><a href="<?=$arSection["SECTION_PAGE_URL"]?>"><?=$arSection["NAME"]?></a></div>
@@ -43,6 +43,4 @@ if (0 < $arResult["SECTIONS_COUNT"])
 			}
 
 }
-
-echo "<pre>"; print_r($arSection); echo "</pre>";
 ?>

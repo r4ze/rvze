@@ -2,7 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Страны");
 ?>
-
+	<h3 class="mtop20">Страны</h3>
 
 <?$APPLICATION->IncludeComponent(
 	"bitrix:catalog",
@@ -51,7 +51,7 @@ $APPLICATION->SetTitle("Страны");
 		"PARTIAL_PRODUCT_PROPERTIES" => "N",
 		"PRODUCT_PROPERTIES" => array(),
 		"SHOW_TOP_ELEMENTS" => "Y",
-		"TOP_ELEMENT_COUNT" => "9",
+		"TOP_ELEMENT_COUNT" => "3",
 		"TOP_LINE_ELEMENT_COUNT" => "3",
 		"TOP_ELEMENT_SORT_FIELD" => "",
 		"TOP_ELEMENT_SORT_ORDER" => "",
@@ -62,7 +62,7 @@ $APPLICATION->SetTitle("Страны");
 		"SECTION_TOP_DEPTH" => "2",
 		"SECTIONS_VIEW_MODE" => "LIST",
 		"SECTIONS_SHOW_PARENT_NAME" => "Y",
-		"PAGE_ELEMENT_COUNT" => "30",
+		"PAGE_ELEMENT_COUNT" => "3",
 		"LINE_ELEMENT_COUNT" => "3",
 		"ELEMENT_SORT_FIELD" => "",
 		"ELEMENT_SORT_ORDER" => "",
@@ -104,5 +104,6 @@ $APPLICATION->SetTitle("Страны");
 		"TOP_ROTATE_TIMER" => "30"
 	)
 );?>
+
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

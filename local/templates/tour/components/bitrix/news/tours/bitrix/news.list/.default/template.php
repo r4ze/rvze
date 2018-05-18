@@ -1,6 +1,6 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?if($arParams["DISPLAY_TOP_PAGER"]):?>
-	<?=$arResult["NAV_STRING"]?><br />
+	<?=$arResult["NAV_STRING"]?>
 <?endif;?>
 
 <?foreach($arResult["ITEMS"] as $arItem):?>
@@ -12,19 +12,18 @@
         <?
         $renderImage = CFile::ResizeImageGet($arItem["PREVIEW_PICTURE"],
             Array("width" => "300", "height" => "364"), BX_RESIZE_IMAGE_EXACT, false);
-
         ?>
+
 <div class="grid_4" style="margin-right: 0;">
     <div class="banner">
                 <img alt="<?=$arItem["NAME"]?>" src="<?=$renderImage["src"]?>">
                 <div class="label">
-                    <div class="title"><a href="tours_detail.html"><?=$arItem["NAME"];?></a></div>
+                    <div class="title"><a href="<?=$arItem["DETAIL_PAGE_URL"]?>"><?=$arItem["NAME"];?></a></div>
                     <div class="price"><span><?=$arItem["PREVIEW_TEXT"];?></span></div>
                     <a href="<?=$arItem["DETAIL_PAGE_URL"]?>">Подробнее</a>
                 </div>
     </div>
 </div>
-
 
 <?endforeach;?>
 
