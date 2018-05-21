@@ -18,8 +18,6 @@
         </div>
     </div>
 </div>
-
-    <? echo "<pre>"; print_r($arItem); echo "</pre>";?>
     
 <?endforeach;?>
 

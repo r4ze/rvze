@@ -1,6 +1,6 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Страны");
+$APPLICATION->SetTitle("test");
 ?><h3 class="mtop20">Страны</h3>
 
 <?$APPLICATION->IncludeComponent(
@@ -19,7 +19,7 @@ $APPLICATION->SetTitle("Страны");
 		"DETAIL_BRAND_USE" => "N",
 		"SECTION_ID_VARIABLE" => "SECTION_ID",
 		"SEF_MODE" => "Y",
-		"VARIABLE_ALIASES" => Array("SECTION_ID"=>"SECTION_ID","ELEMENT_ID"=>"ELEMENT_ID"),
+		"VARIABLE_ALIASES" => Array(),
 		"AJAX_MODE" => "N",
 		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
@@ -96,6 +96,8 @@ $APPLICATION->SetTitle("Страны");
 		"ADD_PICT_PROP" => "-",
 		"LABEL_PROP" => "-",
 		"TOP_VIEW_MODE" => "BANNER",
-		"TOP_ROTATE_TIMER" => "30"
+		"TOP_ROTATE_TIMER" => "30",
+		"VARIABLE_ALIASES" => Array(
+		)
 	)
-);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+);?><br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
