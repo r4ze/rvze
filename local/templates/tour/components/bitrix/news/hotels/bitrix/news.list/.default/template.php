@@ -13,10 +13,13 @@
         <div class="label">
             <div class="title"><a href="<?=$arItem["DETAIL_PAGE_URL"]?>"><?=$arItem["NAME"]?></a></div>
             <div class="price"><span><?=$arItem["PROPERTIES"]["PRICE"]["VALUE"]?></span></div>
-            <a href="<?=$arItem["DETAIL_PAGE_URL"]?>l">Подробнее</a>
+            <a href="<?=$arItem["DETAIL_PAGE_URL"]?>">Подробнее</a>
+
         </div>
     </div>
 </div>
+
+    <? echo "<pre>"; print_r($arItem); echo "</pre>";?>
     
 <?endforeach;?>
 

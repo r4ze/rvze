@@ -14,14 +14,11 @@
                             <div class="text1 col1"><a href="<?=$arItem[DETAIL_PAGE_URL]?>"><?=$arItem["NAME"]?></a></div>
                         </div>
                         <p><?=$arItem[PREVIEW_TEXT]?></p>
+                        <? echo "<pre>"; print_r($arItem); echo "</pre>";?>
                         <a href="<?=$arItem[DETAIL_PAGE_URL]?>" class="link1 fright">Подробнее</a>
                     </div>
 
     <?endforeach;?>
-
-    <?if($arParams["DISPLAY_BOTTOM_PAGER"]):?>
-        <br /><?=$arResult["NAV_STRING"]?>
-    <?endif;?>
         </div>
 
     </div>

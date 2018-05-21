@@ -30,9 +30,9 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 	"CACHE_GROUPS" => "Y",
 	"SET_STATUS_404" => "N",
 	"SET_TITLE" => "Y",
-	"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
-	"ADD_SECTIONS_CHAIN" => "Y",
-	"ADD_ELEMENT_CHAIN" => "N",
+	"INCLUDE_IBLOCK_INTO_CHAIN" => "N",
+	"ADD_SECTIONS_CHAIN" => "N",
+	"ADD_ELEMENT_CHAIN" => "Y",
 	"USE_PERMISSIONS" => "N",
 	"PREVIEW_TRUNCATE_LEN" => "",
 	"LIST_ACTIVE_DATE_FORMAT" => "d.m.Y",
@@ -79,7 +79,7 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 	"VARIABLE_ALIASES" => array(
 		"SECTION_ID" => "SECTION_ID",
 		"ELEMENT_ID" => "ELEMENT_ID",
-	)
+	), "LIST_PROPERTY_CODE" => array("PRICE"),
 	),
 	false
             );?>

@@ -68,7 +68,8 @@ use Bitrix\Main\Page\Asset;
 </header>
 <div class="content" style="padding: 0;">
         <div class="container_12" style="padding: 15px;">
-            <?if(!IS_INDEX):?> <?$APPLICATION->IncludeComponent("bitrix:breadcrumb", "bc", Array(
+            <?if(!IS_INDEX):?>
+                <?$APPLICATION->IncludeComponent("bitrix:breadcrumb", "bc", Array(
 
         ),
             false
@@ -83,37 +84,64 @@ use Bitrix\Main\Page\Asset;
 
         <div class="slider_wrapper">
             <div id="camera_wrap" class="">
-                <div data-src="<?=SITE_TEMPLATE_PATH?>/images/slide.jpg">
-                    <div class="caption fadeIn">
-                        <h2>ЛОНДОН</h2>
-                        <div class="price">
-                            <span>$1000</span>
-                        </div>
-                        <a href="#">Подробнее</a>
-                    </div>
-                </div>
-                <div data-src="<?=SITE_TEMPLATE_PATH?>/images/slide1.jpg">
-                    <div class="caption fadeIn">
-                        <h2>МАЛЬДИВЫ</h2>
-                        <div class="price">
-                            <span>$2000</span>
-                        </div>
-                        <a href="#">Подробнее</a>
-                    </div>
-                </div>
-                <div data-src="<?=SITE_TEMPLATE_PATH?>/images/slide2.jpg">
-                    <div class="caption fadeIn">
-                        <h2>ВЕНЕЦИЯ</h2>
-                        <div class="price">
-                            <span>$1600</span>
-                        </div>
-                        <a href="#">Подробнее</a>
-                    </div>
-                </div>
+                <?$APPLICATION->IncludeComponent("bitrix:news.list", "banner", array(
+                "IBLOCK_TYPE" => "-",
+                "IBLOCK_ID" => "3",
+                "NEWS_COUNT" => "3",
+                "SORT_BY1" => "ACTIVE_FROM",
+                "SORT_ORDER1" => "DESC",
+                "SORT_BY2" => "SORT",
+                "SORT_ORDER2" => "ASC",
+                "FILTER_NAME" => "",
+                "FIELD_CODE" => array(
+                0 => "",
+                1 => "",
+                ),
+                "PROPERTY_CODE" => array(
+                0 => "",
+                1 => "",
+                ),
+                "CHECK_DATES" => "Y",
+                "DETAIL_URL" => "",
+                "AJAX_MODE" => "N",
+                "AJAX_OPTION_JUMP" => "N",
+                "AJAX_OPTION_STYLE" => "Y",
+                "AJAX_OPTION_HISTORY" => "N",
+                "CACHE_TYPE" => "A",
+                "CACHE_TIME" => "36000000",
+                "CACHE_FILTER" => "N",
+                "CACHE_GROUPS" => "Y",
+                "PREVIEW_TRUNCATE_LEN" => "",
+                "ACTIVE_DATE_FORMAT" => "d.m.Y",
+                "SET_STATUS_404" => "N",
+                "SET_TITLE" => "Y",
+                "INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
+                "ADD_SECTIONS_CHAIN" => "Y",
+                "HIDE_LINK_WHEN_NO_DETAIL" => "N",
+                "PARENT_SECTION" => "",
+                "PARENT_SECTION_CODE" => "",
+                "INCLUDE_SUBSECTIONS" => "Y",
+                "PAGER_TEMPLATE" => ".default",
+                "DISPLAY_TOP_PAGER" => "N",
+                "DISPLAY_BOTTOM_PAGER" => "Y",
+                "PAGER_TITLE" => "Новости",
+                "PAGER_SHOW_ALWAYS" => "Y",
+                "PAGER_DESC_NUMBERING" => "N",
+                "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+                "PAGER_SHOW_ALL" => "Y",
+                "DISPLAY_DATE" => "Y",
+                "DISPLAY_NAME" => "Y",
+                "DISPLAY_PICTURE" => "Y",
+                "DISPLAY_PREVIEW_TEXT" => "Y",
+                "AJAX_OPTION_ADDITIONAL" => ""
+                ),
+                false
+                );?>
             </div>
         </div>
 
     <?endif;?>
+
 <div class="content">
     <div class="container_12">
 

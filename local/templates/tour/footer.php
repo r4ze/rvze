@@ -1,18 +1,26 @@
+    </div>
+    </div>
+        <?if(IS_INDEX):?>
+        <div class="content">
+        <div class="container_12">
+            <div class="grid_12">
+                <h3 class="head1">Новости</h3>
+            </div>
+            <?$APPLICATION->IncludeComponent("bitrix:news", "footernews", Array(
+
+            ),
+                false
+            );?>
+            </div>
+            </div>
+                </div>
+        <?endif;?>
+
+
 </div>
 
 
 
-
-<?if(IS_INDEX):?>
-               <?$APPLICATION->IncludeComponent("bitrix:news", "footernews", Array(
-
-                    ),
-                        false
-                );?>
-<?endif;?>
-
-</div
-</div>
 <footer>
     <div class="container_12">
 

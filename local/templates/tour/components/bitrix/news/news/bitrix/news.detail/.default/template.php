@@ -3,8 +3,16 @@
 <div class="container_12" style="padding-top: 25px;">
     <div class="grid_12">
         <div class="blog">
-	<?if($arParams["DISPLAY_PICTURE"]!="N" && is_array($arResult["DETAIL_PICTURE"])):?>
-		<img class="img_inner fleft mr10"  src="<?=$arResult["DETAIL_PICTURE"]["SRC"]; ?>" width="<?=$arResult["DETAIL_PICTURE"]["WIDTH"]?>" height="<?=$arResult["DETAIL_PICTURE"]["HEIGHT"]?>" alt="<?=$arResult["NAME"]?>"  title="<?=$arResult["NAME"]?>" />
+
+            <?
+            $renderImage = CFile::ResizeImageGet($arItem["DETAIL_PICTURE"]["SRC"],
+                Array("width" => "540", "height" => "313"), BX_RESIZE_IMAGE_EXACT, false);
+            ?>
+
+            
+            <?if($arParams["DISPLAY_PICTURE"]!="N" && is_array($arResult["DETAIL_PICTURE"])):?>
+
+		<img class="img_inner fleft mr10"  src="<?=$renderImage["src"]?>" width="<?=$arResult["DETAIL_PICTURE"]?>" height="<?=$arResult["DETAIL_PICTURE"]["HEIGHT"]?>" alt="<?=$arResult["NAME"]?>"  title="<?=$arResult["NAME"]?>" />
 	<?endif?>
 	<?if($arParams["DISPLAY_DATE"]!="N" && $arResult["DISPLAY_ACTIVE_FROM"]):?>
         <time datetime="2014-10-01"><span><?=FormatDate("d", MakeTimeStamp($arItem['DISPLAY_ACTIVE_FROM']))?><span><?=FormatDate("M", MakeTimeStamp($arItem['DISPLAY_ACTIVE_FROM']))?></span></span></time>
@@ -26,6 +34,7 @@
 		<?echo $arResult["PREVIEW_TEXT"];?>
 	<?endif?>
 	<div style="clear:both"></div>
+            <? echo  "<pre>"; print_r($arResult); echo "</pre>";?>
 
 </div>
 </div>

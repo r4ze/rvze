@@ -11,8 +11,6 @@ if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die();
  */
 ?>
 
-<div class="mfeedback">
-
     <?if(!empty($arResult["ERROR_MESSAGE"])) {
     foreach ($arResult["ERROR_MESSAGE"] as $v)
         ShowError($v);
@@ -58,5 +56,3 @@ if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die();
 
 </form>
 
-
-</div>
