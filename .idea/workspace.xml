@@ -2,12 +2,126 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad591ecd-0db5-4390-8744-f0707092f69a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/catalog.filter/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/catalog.filter/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/catalog.filter/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/component_epilog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/font_quote.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/noavatar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/add_button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/cut.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/edit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_bold.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_code.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_color.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_image.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_italic.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_link.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_list.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_quote.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_translit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/font_underline.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/image.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/toolbarbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/images/postform/video.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/result_modifier.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/ru/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/forum.topic.reviews/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/images/empty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/images/over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/images/voted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/result_modifier.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/iblock.vote/ajax/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/lang/en/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/lang/ru/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.detail/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.index/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/lang/en/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/lang/ru/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/list/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/photo/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/rss.out/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/rss.out/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/rss.out/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.form/flat/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.form/flat/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.form/flat/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.page/.default/chain_template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.page/.default/lang/en/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.page/.default/lang/ru/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/search.page/.default/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/detail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-dark/feed-icon-10x10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-dark/feed-icon-12x12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-dark/feed-icon-16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-dark/feed-icon-24x24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-dark/feed-icon-32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-light/feed-icon-10x10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-light/feed-icon-12x12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-light/feed-icon-16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-light/feed-icon-24x24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/gif-light/feed-icon-32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-black/feed-icon-10x10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-black/feed-icon-12x12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-black/feed-icon-16x16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-black/feed-icon-24x24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-black/feed-icon-32x32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-white/feed-icon-10x10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-white/feed-icon-12x12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-white/feed-icon-16x16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-white/feed-icon-24x24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/jpg-white/feed-icon-32x32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-10x10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-12x12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-14x14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-24x24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/images/png/feed-icon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/detail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/ru/.parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/ru/detail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/ru/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/ru/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/ru/section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/rss_section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/section.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countries/index.php" afterPath="$PROJECT_DIR$/countries/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotels/index.php" afterPath="$PROJECT_DIR$/hotels/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.detail/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.detail/.default/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" afterPath="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local/templates/tour/header.php" afterPath="$PROJECT_DIR$/local/templates/tour/header.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,93 +133,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hotels/index.php">
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="300">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/countries/index.php">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tours/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="88" column="60" lean-forward="false" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
+            <state relative-caret-position="1530">
+              <caret line="116" column="37" lean-forward="false" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
               <folding>
-                <element signature="e#172#2097#0#PHP" expanded="false" />
+                <element signature="e#3654#3671#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.detail/.default/template.php">
+        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4062">
-              <caret line="509" column="2" lean-forward="true" selection-start-line="509" selection-start-column="2" selection-end-line="509" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countries_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/case/html/countries_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="182" column="14" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="182" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.detail/.default/template.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="45" selection-end-column="64" />
+            <state relative-caret-position="200">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -123,10 +177,11 @@
       <find>$arItem</find>
       <find>ok</find>
       <find>LIST_PROPERTY</find>
-      <find>LIST</find>
       <find>LIST_</find>
       <find>INCLUDE_IBLOCK_INTO_CHAIN</find>
       <find>SEF_MODE</find>
+      <find>Y</find>
+      <find>LIST</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -173,22 +228,22 @@
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/footer.php" />
         <option value="$PROJECT_DIR$/forcomponents.php" />
-        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" />
         <option value="$USER_HOME$/Desktop/case/html/hotels_detail.html" />
-        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.detail/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.list/.default/template.php" />
         <option value="$USER_HOME$/Desktop/case/html/index.html" />
         <option value="$PROJECT_DIR$/tours/index.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/main.feedback/writeus/template.php" />
-        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php" />
-        <option value="$PROJECT_DIR$/local/templates/tour/header.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php" />
         <option value="$PROJECT_DIR$/countries/index.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.detail/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section.list/.default/template.php" />
         <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/header.php" />
+        <option value="$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php" />
       </list>
     </option>
   </component>
@@ -200,10 +255,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-17" />
+    <option name="y" value="367" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,6 +298,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="local" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -298,42 +367,12 @@
               <option name="myItemId" value="bitrix" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="news.list" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tour" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countries" />
+              <option name="myItemId" value="banner" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,15 +406,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countries" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
+              <option name="myItemId" value="news" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -406,26 +437,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countries" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bitrix" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog.element" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".default" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -436,19 +447,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/php/OpenServer/modules/php/PHP-7.1/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="SearchEverywhereHistoryKey" value="component.php&#9;FILE&#9;file://D:/Bitrix Environment/www/bitrix/components/bitrix/bitrixcloud.mobile.monitoring.list/component.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bitrix Environment\www\local\templates\tour\components\bitrix\news.list\banner" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Bitrix Environment\www\local\templates\tour\components\bitrix" />
       <recent name="D:\Bitrix Environment\www\local\templates\tour\components\bitrix\news" />
       <recent name="D:\Bitrix Environment\www" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Bitrix Environment\www\local\templates\tour\components\bitrix\news.list\banner" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -554,27 +565,30 @@
       <workItem from="1526462816856" duration="24165000" />
       <workItem from="1526700765885" duration="3791000" />
       <workItem from="1526897077909" duration="7430000" />
-      <workItem from="1526906429917" duration="1366000" />
+      <workItem from="1526906429917" duration="3447000" />
+      <workItem from="1527074621158" duration="444000" />
+      <workItem from="1527075073635" duration="133000" />
+      <workItem from="1527075754080" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74725000" />
+    <option name="totallyTimeSpent" value="78139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-17" y="367" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24139784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46625766" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33480176" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -627,21 +641,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bitrix/components/bitrix/bitrixcloud.mobile.monitoring.list/component.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/rss_section.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/search.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -653,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="52" column="52" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="105" column="33" lean-forward="false" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,27 +808,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="75" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/lang/en/news.php" />
     <entry file="file://$USER_HOME$/Desktop/case/html/hotels_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -842,13 +816,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/banner/bitrix/news.list/.default/template.php" />
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/list/template.php" />
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/main.feedback/writeus/template.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -871,28 +839,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="e#3654#3671#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/forcomponents.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="55" column="4" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="55" selection-end-column="4" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -914,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="45" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,37 +875,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hotels/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/countries/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="440">
           <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tours/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="88" column="60" lean-forward="false" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
-          <folding>
-            <element signature="e#172#2097#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/tours/bitrix/news.detail/.default/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -963,15 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,15 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="484" column="13" lean-forward="false" selection-start-line="484" selection-start-column="13" selection-end-line="484" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/case/html/countries_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="182" column="14" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="182" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,23 +908,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.element/.default/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4062">
-          <caret line="509" column="2" lean-forward="true" selection-start-line="509" selection-start-column="2" selection-end-line="509" selection-end-column="2" />
+        <state relative-caret-position="10180">
+          <caret line="509" column="2" lean-forward="false" selection-start-line="509" selection-start-column="2" selection-end-line="509" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/catalog/countries/bitrix/catalog.section/list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="88" column="60" lean-forward="false" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/.parameters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/case/html/countries_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="182" column="14" lean-forward="false" selection-start-line="66" selection-start-column="20" selection-end-line="182" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/hotels/bitrix/news.list/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="79" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.detail/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotels/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news/news/bitrix/news.list/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/components/bitrix/news.list/banner/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/templates/tour/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="116" column="37" lean-forward="false" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
+          <folding>
+            <element signature="e#3654#3671#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

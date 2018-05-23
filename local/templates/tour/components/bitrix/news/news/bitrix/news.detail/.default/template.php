@@ -34,7 +34,6 @@
 		<?echo $arResult["PREVIEW_TEXT"];?>
 	<?endif?>
 	<div style="clear:both"></div>
-            <? echo  "<pre>"; print_r($arResult); echo "</pre>";?>
 
 </div>
 </div>

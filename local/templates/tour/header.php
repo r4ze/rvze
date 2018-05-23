@@ -101,6 +101,7 @@ use Bitrix\Main\Page\Asset;
                 0 => "",
                 1 => "",
                 ),
+                "LIST_PROPERTY_CODE" => array("PRICE"),
                 "CHECK_DATES" => "Y",
                 "DETAIL_URL" => "",
                 "AJAX_MODE" => "N",
