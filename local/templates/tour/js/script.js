@@ -98,3 +98,7 @@ var currentYear = (new Date).getFullYear();
   $(function(){
   $('.sf-menu').superfish({autoArrows: true})
 })
+
+      $(document).ready(function(){
+          $(".fancybox").fancybox();
+      });
